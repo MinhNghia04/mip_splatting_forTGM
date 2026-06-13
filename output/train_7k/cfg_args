@@ -1,0 +1,1 @@
+Namespace(data_device='cuda', eval=False, images='images', kernel_size=0.1, load_allres=False, model_path='output/train_7k', ray_jitter=False, resample_gt_image=False, resolution=-1, sample_more_highres=False, sh_degree=3, source_path='D:\\Nghias_study_mat\\computer_vision\\mip-splatting\\data\\tandt\\train', white_background=False)
